@@ -34,4 +34,4 @@ soup = BeautifulSoup(html, "html.parser")
 elems = soup.select('a')
 
 for i in elems:
-	print(i
+	print(i)
